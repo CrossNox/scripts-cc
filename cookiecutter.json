@@ -1,0 +1,7 @@
+{
+    "script_name": "Script Name?",
+    "script_description": "Description?",
+    "_copy_without_render": [
+	".git/*"
+    ]
+}
